@@ -1,0 +1,35 @@
+============================================================
+      CUB-200 预测报告: ATTENTION 模型
+============================================================
+
+【第一部分：已知标签验证】
+(无数据)
+
+
+【第二部分：未知数据预测】
+
+📂 文件夹: [000.unknown]
+   🐦 图片: Laysan_Albatross_0004_930.jpg
+      [预测可能性]
+      -> No.1: 002.Laysan_Albatross           99.24%
+         No.2: 066.Western_Gull               0.41%
+         No.3: 059.California_Gull            0.19%
+         No.4: 044.Frigatebird                0.06%
+         No.5: 003.Sooty_Albatross            0.03%
+----------------------------------------
+   🐦 图片: Laysan_Albatross_0005_565.jpg
+      [预测可能性]
+      -> No.1: 002.Laysan_Albatross           99.32%
+         No.2: 045.Northern_Fulmar            0.29%
+         No.3: 066.Western_Gull               0.18%
+         No.4: 001.Black_footed_Albatross     0.13%
+         No.5: 065.Slaty_backed_Gull          0.05%
+----------------------------------------
+   🐦 图片: Laysan_Albatross_0006_702.jpg
+      [预测可能性]
+      -> No.1: 002.Laysan_Albatross           86.78%
+         No.2: 045.Northern_Fulmar            10.26%
+         No.3: 084.Red_legged_Kittiwake       1.61%
+         No.4: 003.Sooty_Albatross            0.80%
+         No.5: 059.California_Gull            0.21%
+----------------------------------------
